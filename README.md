@@ -6,3 +6,5 @@ First time, I commited a key
 
 now will use git status
 
+## change
+changed directly in github
